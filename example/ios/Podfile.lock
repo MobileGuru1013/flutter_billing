@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_billing (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `/Users/Vladimir/Projects/github.com/flutter/bin/cache/artifacts/engine/ios-release`)
+  - flutter_billing (from `/Users/Vladimir/Projects/github.com/flutter_billing/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "/Users/Vladimir/Projects/github.com/flutter/bin/cache/artifacts/engine/ios-release"
+  flutter_billing:
+    :path: "/Users/Vladimir/Projects/github.com/flutter_billing/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  flutter_billing: 0d1729942437371ed109944d57e435f820404b97
+
+PODFILE CHECKSUM: af9e3c39454c5c0747a209b7dc05c442964e0051
+
+COCOAPODS: 1.5.2
